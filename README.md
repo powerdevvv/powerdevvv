@@ -39,6 +39,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/powerdevv_/powerdevv_/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/powerdevvv/powerdevvv/output/snake.svg" alt="Snake animation" />
 
 ###
